@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @RuiAssisCosta
-- 👀 I’m interested in business analysis, strategic leadership, and aviation engineering.
-- 🌱 I’m currently learning advanced data analytics and the latest tools in business intelligence with AI.
-- 💞️ I want to collaborate on innovative projects that integrate technology and strategy to solve complex business challenges.
-- 📫 How to reach me: You can connect with me via LinkedIn or email me at ruiassiscosta@me.com.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a background in aviation engineering and a passion for continuous learning, driving both technical innovation and business growth.
-
-<!---
-RuiAssisCosta/RuiAssisCosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @RuiAssisCosta
+👀 Interests: Business analysis, strategic leadership, and aviation engineering.
+🌱 Currently Learning: Advanced data analytics and cutting-edge AI-driven business intelligence tools.
+💼 Professional Profile: Business Analyst with a strong foundation in data analysis, process optimization, and stakeholder engagement. Skilled at bridging business needs and IT solutions, I leverage data-driven insights and innovative technology to enhance operational efficiency and customer satisfaction. Passionate about applying AI and Agile methodologies to drive transformative change in alignment with strategic goals.
+💞️ Collaboration: Eager to partner on projects that fuse technology with strategy to tackle complex business challenges.
+📫 Connect with Me: LinkedIn or via email at ruiassiscosta@me.com
+😄 Pronouns: He/Him
+⚡ Fun Fact: My background in aviation engineering fuels my passion for continuous learning, pushing me to drive technical innovation and business growth in equal measure.
